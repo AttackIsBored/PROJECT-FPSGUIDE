@@ -20,7 +20,7 @@ FPS GUIDE utility is a utility taking advantage of the batchfile script to apply
 - https://discord.gg/fpsguide
 
 > [!NOTE] 
-> This utility edits the registry! (to be replaced soon) follow [this guide made for the utility](https://youtu.be/9454bpZ3tiA).
+> This utility edits the registry! (to be replaced soon) follow [this guide made for the utility](https://youtu.be/2-cl4e56B5Q).
 
 ## Requirements
 
@@ -28,7 +28,7 @@ FPS GUIDE utility is a utility taking advantage of the batchfile script to apply
   - *(Tested on Windows 10 22H2 & Windows 11 24H2)*
   - *( 64-bit is supported)*
 
-[Get the release!](https://github.com/CrimsonicSniper/FPSGUIDE/releases/tag/Optimizer)
+[Get the release!](https://github.com/AttackIsBored/PROJECT-FPSGUIDE/releases/tag/Optimizer)
 ## Features
 - Disable Animations
 - Cleaner
