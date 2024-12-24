@@ -20,7 +20,7 @@ FPS GUIDE utility is a utility taking advantage of the batchfile script to apply
 - https://discord.gg/fpsguide
 
 > [!NOTE] 
-> This utility edits the registry! (to be replaced soon) follow [this guide made for the utility](https://youtu.be/2-cl4e56B5Q).
+> This utility edits the registry! Follow [this guide made for the utility](https://youtu.be/2-cl4e56B5Q).
 
 ## Requirements
 
